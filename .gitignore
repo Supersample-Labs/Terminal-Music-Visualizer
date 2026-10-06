@@ -1,0 +1,15 @@
+# .NET build output
+bin/
+obj/
+
+# Editor state
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
