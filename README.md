@@ -114,4 +114,7 @@ macOS launches `afplay` for each track. Its spectrum is animated using sine wave
 - `Program.cs` — music player, visualizer, controls, and queue handling.
 - `.gitignore` — excludes build output, editor state, and operating-system metadata.
 
-No project license is currently included.
+## License
+
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Supersample Labs.
+
